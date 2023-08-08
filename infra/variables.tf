@@ -12,6 +12,7 @@ variable "automation_account_name" {
 
 variable "automation_sku_name" {
   description = "value for automation_sku_name"
+  default = "Basic"
 }
 
 variable "automation_log_analytics_workspace_name" {

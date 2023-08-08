@@ -1,0 +1,5 @@
+resource_group_name=""
+location=""
+automation_account_name=""
+automation_sku_name=""
+automation_log_analytics_workspace_name=""
